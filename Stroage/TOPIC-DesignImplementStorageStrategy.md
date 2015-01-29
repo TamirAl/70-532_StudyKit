@@ -1,1 +1,1 @@
-# Design and Implement a Storage Strategy (20-25%)
+## Design and Implement a Storage Strategy (20-25%)
