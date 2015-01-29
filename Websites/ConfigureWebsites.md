@@ -1,3 +1,16 @@
 ## Configure Websites
 
-1. Define and use app settings, connection strings, handlers, and virtual directories; configure certificates and custom domains; configure SSL bindings and runtime configurations; manage websites by using the API, Windows PowerShell, and Xplat-CLI
+1. Define and use app settings, connection strings, handlers, and virtual directories
+	1. [http://azure.microsoft.com/blog/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work/](http://azure.microsoft.com/blog/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work/ "http://azure.microsoft.com/blog/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work/")
+	2. [http://azure.microsoft.com/blog/2014/01/10/windows-azure-websites-development-stacks-support/](http://azure.microsoft.com/blog/2014/01/10/windows-azure-websites-development-stacks-support/ "http://azure.microsoft.com/blog/2014/01/10/windows-azure-websites-development-stacks-support/")
+	3. [http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx](http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx "http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx")
+2. Configure certificates and custom domains
+	1. [http://azure.microsoft.com/en-us/documentation/articles/web-sites-custom-domain-name/](http://azure.microsoft.com/en-us/documentation/articles/web-sites-custom-domain-name/ "http://azure.microsoft.com/en-us/documentation/articles/web-sites-custom-domain-name/")
+	2. [http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/](http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/ "http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/")
+3. Configure SSL bindings and runtime configurations
+	1. [http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/](http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/ "http://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/")
+	2. [http://azure.microsoft.com/en-us/documentation/articles/web-sites-manage-azure-website/#configuration](http://azure.microsoft.com/en-us/documentation/articles/web-sites-manage-azure-website/#configuration "http://azure.microsoft.com/en-us/documentation/articles/web-sites-manage-azure-website/#configuration")
+4. Manage websites by using the API, Windows PowerShell, and Xplat-CLI
+	1. [http://azure.microsoft.com/en-us/documentation/articles/install-configure-powershell/](http://azure.microsoft.com/en-us/documentation/articles/install-configure-powershell/ "http://azure.microsoft.com/en-us/documentation/articles/install-configure-powershell/")
+	2. [http://azure.microsoft.com/en-us/documentation/articles/command-line-tools/](http://azure.microsoft.com/en-us/documentation/articles/command-line-tools/ "http://azure.microsoft.com/en-us/documentation/articles/command-line-tools/")
+	3. [https://msdn.microsoft.com/en-us/library/azure/dn776326.aspx](https://msdn.microsoft.com/en-us/library/azure/dn776326.aspx "https://msdn.microsoft.com/en-us/library/azure/dn776326.aspx")
